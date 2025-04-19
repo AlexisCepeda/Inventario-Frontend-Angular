@@ -10,6 +10,10 @@ Este frontend consume los servicios REST expuestos por el backend desarrollado e
 - **HTML & CSS**: Para la estructura y el diseño visual de los componentes.
 - **Bootstrap**: Utilizado para agilizar el diseño de la interfaz y garantizar un estilo moderno y **responsive**.
 
+## Interfaz gráfica
+![Pantalla principal](GUIs/pagina-principal.png)
+![Agregar producto](GUIs/agregar-producto.png)
+
 ## 🔗 Backend
  
 Este frontend está conectado al backend desarrollado con **Spring Boot**, que gestiona la lógica del negocio y el acceso a la base de datos.  
