@@ -11,7 +11,11 @@ Este frontend consume los servicios REST expuestos por el backend desarrollado e
 - **Bootstrap**: Utilizado para agilizar el diseño de la interfaz y garantizar un estilo moderno y **responsive**.
 
 ## Interfaz gráfica
+
+### Pagina principal:
 ![Pantalla principal](GUIs/pagina-principal.png)
+
+### Agregar producto:
 ![Agregar producto](GUIs/agregar-producto.png)
 
 ## 🔗 Backend
